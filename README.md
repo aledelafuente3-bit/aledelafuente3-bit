@@ -10,6 +10,8 @@ I have completed the coursework for an MSc in Environmental Science for Sustaina
 
 ### Where Should the Next Generation of U.S. Data Centres Be Built?
 
+[View the full project repository](https://github.com/aledelafuente3-bit/data-centre-siting-gis)
+
 For my MSc dissertation at King's College London, I developed a one-kilometre spatial screening model across seven U.S. states. The analysis evaluated **1,477,032 viable cells** using nine criteria covering projected environmental exposure, proximity to critical infrastructure, electricity-system impacts and cumulative community burden.
 
 The model retained three separate decision pillars alongside a composite suitability index, making the effects of weighting choices and public-data limitations visible. I assessed robustness through five Monte Carlo experiments, an independent CRITIC weighting specification and spatial comparison with **1,548 established facilities**.
@@ -18,11 +20,11 @@ The model retained three separate decision pillars alongside a composite suitabi
 
 ## Other analytical work
 
-- **Northern Virginia data centres and urban change:** satellite analysis of NDVI, NDBI and land-surface temperature around Ashburn using Google Earth Engine, Sentinel-2 and MODIS-derived data.
-- **UK grid carbon-intensity forecasting:** time-series analysis and forecasting in R, including seasonal structure and ARIMA-based model assessment.
-- **Mountain gorilla conservation suitability:** GIS-based habitat and conservation-priority analysis with explicit treatment of licensed source data.
-- **London PM2.5 sensor study:** analysis of measurements collected with a portable Arduino-based environmental logger across contrasting urban locations.
-- **FaIR climate modelling:** scenario analysis using the FaIR reduced-complexity climate model and documented source assumptions.
+- **[Northern Virginia data centres and urban change](https://github.com/aledelafuente3-bit/nova-data-centres-remote-sensing):** satellite analysis of NDVI, NDBI and land-surface temperature around Ashburn using Google Earth Engine, Sentinel-2 and MODIS-derived data.
+- **[UK grid carbon-intensity forecasting](https://github.com/aledelafuente3-bit/uk-grid-carbon-forecasting):** time-series analysis and forecasting in R, including seasonal structure and ARIMA-based model assessment.
+- **[Mountain gorilla conservation suitability](https://github.com/aledelafuente3-bit/mountain-gorilla-suitability-gis):** GIS-based habitat and conservation-priority analysis with explicit treatment of licensed source data.
+- **[London PM2.5 sensor study](https://github.com/aledelafuente3-bit/london-pm25-sensor-analysis):** analysis of measurements collected with a portable Arduino-based environmental logger across contrasting urban locations.
+- **[FaIR climate modelling](https://github.com/aledelafuente3-bit/fair-climate-scenarios):** scenario analysis using the FaIR reduced-complexity climate model and documented source assumptions.
 
 ## Experience and interests
 
